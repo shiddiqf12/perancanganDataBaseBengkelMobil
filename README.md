@@ -1,30 +1,5 @@
 # perancanganDataBaseBengkelMobil
 
-Sign up
-ichsan-arrizqi
-/
-sistem_bengkel_oop
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-sistem_bengkel_oop/bengkel.sql
-@ichsan-arrizqi
-ichsan-arrizqi sistem bengkel
- 1 contributor
-280 lines (223 sloc)  6.49 KB
--- phpMyAdmin SQL Dump
--- version 4.9.0.1
--- https://www.phpmyadmin.net/
---
--- Host: 127.0.0.1
--- Waktu pembuatan: 11 Agu 2020 pada 20.36
--- Versi server: 10.4.6-MariaDB
--- Versi PHP: 7.3.8
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET AUTOCOMMIT = 0;
